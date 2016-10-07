@@ -1,4 +1,4 @@
-.. doc_inspector_menu
+.. _doc_inspector_menu:
 
 Inspector
 =========
@@ -82,4 +82,3 @@ Custom Actions like Dash, Melee, and Gun.
 **Custom Action**
 
 .. image:: /img/customaction_inspector.PNG
-

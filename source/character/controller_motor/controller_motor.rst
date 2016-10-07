@@ -1,4 +1,4 @@
-.. doc_controller_motor:
+.. _doc_controller_motor:
 
 Controller Motor
 ================
@@ -10,8 +10,7 @@ There is 3 menu : Setup, Inspector, and Trigger
 
 .. toctree::
    :maxdepth: 1
-   
+
    setup_menu
    inspector_menu
    trigger_menu
-   
