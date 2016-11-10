@@ -11,12 +11,12 @@ The main documentation is organized into a few section:
    :maxdepth: 1
    :caption: Learning
    :name: sec-learning
-   
+
    stepbystep/stepbystep
    2dgame/create_2d_game
 
 If you have a trouble, contact me at damarind@gmail.com.
-Updated docs? Visit `Here <www.http://proformer.readthedocs.io/en/latest/>`_
+Updated docs? Visit `Here <http://proformer.readthedocs.io/en/latest/>`_
 
 .. Indices and tables
 .. ==================
