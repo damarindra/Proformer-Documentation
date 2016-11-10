@@ -1,4 +1,4 @@
-.. doc_setup:
+.. _doc_setup:
 
 Setup
 =====
@@ -16,11 +16,11 @@ When you create a new Character Type, you must be complete Setup Sections.
 - Raw Horizontal -> raw horizontal is between 0 - 1.
 - Raw Vertical -> raw vertical is between 0 - 1.
 
-Confuse? Position in this part is mean position relative to Level Bounds. Please read Level Bounds sections.
+Confuse? Position in this part is means position relative to Level Bounds. Please read Level Bounds sections.
 
-Simple Explaination is, Level Bounds has an array of Level Path. If raw horizontal is 0, 
-that means your horizontal position is equal to LevelPath.from. 
-and if raw horizontal is 1, tahat means your horizontal position is equal to LevelPath.to.
+Simple Explaination is, Level Bounds has an array of Level Path. If raw horizontal is 0,
+that means your horizontal position is equal to LevelPath.from.
+and if raw horizontal is 1, that means your horizontal position is equal to LevelPath.to.
 same as vertical, if 0, then your vertical position is equal with LevelBounds.bottom, and otherwise.
 
 **Controller**

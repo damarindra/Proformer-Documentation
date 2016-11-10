@@ -5,31 +5,18 @@ Proformer is a Game Toolkit for creating platformer game in Unity3D.
 
 The main documentation is organized into a few section:
 
-* :ref:`sec-tutorials`
-* :ref:`sec-extend`
-* :ref:`sec-classreference`
+* :ref:`sec-learning`
 
 .. toctree::
    :maxdepth: 1
-   :caption: Tutorials
-   :name: sec-tutorials
-
-   character/character_creation
-   object/objects
+   :caption: Learning
+   :name: sec-learning
    
-.. toctree::
-   :maxdepth: 1
-   :caption: Extending Toolkit
-   :name: sec-extend
+   stepbystep/stepbystep
+   2dgame/create_2d_game
 
-   extend/extend
-   
-.. toctree::
-   :maxdepth: 1
-   :caption: Class Reference
-   :name: sec-classreference
-
-   classreference/classreference
+If you have a trouble, contact me at damarind@gmail.com.
+Updated docs? Visit `Here <www.http://proformer.readthedocs.io/en/latest/>`_
 
 .. Indices and tables
 .. ==================
@@ -37,4 +24,3 @@ The main documentation is organized into a few section:
 .. * :ref:`genindex`
 .. * :ref:`modindex`
 .. * :ref:`search`
-

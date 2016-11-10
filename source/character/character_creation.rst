@@ -13,6 +13,8 @@ Character Creation
    simple_ai
    create_character_as_enemy
 
+Obsolete Video
+
 This video is contains all character creations tutorial.
 
 .. raw:: html
